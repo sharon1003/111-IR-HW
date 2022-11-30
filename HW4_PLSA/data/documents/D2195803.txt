@@ -1,0 +1,1 @@
+amitsukte hello everyone i m creating one procedure in that i want to check for existence of table i want to something like this expand  select  wrap  line numbersif table a exists thensome insert operation on asome update operations on aelsecreate table aand insert data from table bend ifplease help mar 9 12  1post reply

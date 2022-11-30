@@ -1,0 +1,1 @@
+1 create a folder the quickest way to create a zip file is to place all of the files that you want to archive into one folder you can place multiple files and folders into the folder that you are creating the zip file from rename the folder to whatever you want the zip file to be named
