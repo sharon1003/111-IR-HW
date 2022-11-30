@@ -1,5 +1,5 @@
-# NTUST_IR
-2022 Fall NTUST Information Retrieval and Applications
+# NTUST_Information Retrieval and Applications
+2022 Fall
 
 ## Homework List
 + [homework 1](https://www.kaggle.com/competitions/2022-ntust-information-retrieval-hw1/leaderboard): Vector Space Model
