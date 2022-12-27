@@ -6,4 +6,6 @@
 + [homework 2](https://www.kaggle.com/competitions/2022-ntust-information-retrieval-hw2/leaderboard): Best Match Model 25
 + homework 3: Mean Average Precision
 + [homework 4](https://www.kaggle.com/competitions/2022-ntust-information-retrieval-hw4/leaderboard): Probabilistic Latent Semantic Analysis (PLSA)
++ [homework 5](https://www.kaggle.com/competitions/2022-ntust-information-retrieval-hw5/leaderboard): Classic Retrieval Models
++ [homework 6](https://www.kaggle.com/competitions/2022-ntust-information-retrieval-hw6/leaderboard): Word Embeddings
 
